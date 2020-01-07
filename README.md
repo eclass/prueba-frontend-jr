@@ -20,6 +20,6 @@ Desarrollar una vista con Reactjs que permita visualizar datos con la api de htt
 - Link al respositorio.
 - Comandos para ejecutar el respositorio.
 
-Cualquier duda la puedes consultar con Ender Bonnet al correo ebonnet@elass.cl
+Cualquier duda la puedes consultar con Ender Bonnet al correo ebonnet@eclass.cl
 
 Gracias por participar en el proceso de selección
