@@ -1,4 +1,4 @@
-# Prueba de para Frontend Jr eClass 2020
+# Prueba para Frontend Jr eClass 2020
 
 Desarrollar una vista con Reactjs que permita visualizar datos con la api de https://currencylayer.com/.
 
@@ -19,5 +19,7 @@ Desarrollar una vista con Reactjs que permita visualizar datos con la api de htt
 
 - Link al respositorio.
 - Comandos para ejecutar el respositorio.
+
+Cualquier duda la puedes consultar con Ender Bonnet al correo ebonnet@elass.cl
 
 Gracias por participar en el proceso de selección
